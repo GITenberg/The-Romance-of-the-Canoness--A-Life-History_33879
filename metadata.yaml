@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Paul_Heyse
     - http://de.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33879#The-Romance-of-the-Canoness--A-Life-History
 gutenberg_issued: '2010-10-22'
 gutenberg_type: Text
 identifiers:
